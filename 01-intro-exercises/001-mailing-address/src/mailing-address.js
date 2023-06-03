@@ -1,4 +1,4 @@
 function mailingAddress() {
-  console.log("kayyrbeks@gmail.com");
+  return "Kayyrbek Perdebekov\nkayyrbeks@gmail.com";
 }
 export default mailingAddress;

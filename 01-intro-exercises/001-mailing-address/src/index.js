@@ -1,3 +1,3 @@
 import mailingAddress from "./mailing-address";
 
-mailingAddress();
+console.log(mailingAddress());
