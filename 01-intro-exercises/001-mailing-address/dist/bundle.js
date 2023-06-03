@@ -10,7 +10,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 function mailingAddress() {
-  console.log("kayyrbeks@gmail.com");
+  return "Kayyrbek Perdebekov\nkayyrbeks@gmail.com";
 }
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (mailingAddress);
 
@@ -79,7 +79,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _mailing_address__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1);
 
 
-(0,_mailing_address__WEBPACK_IMPORTED_MODULE_0__["default"])();
+console.log((0,_mailing_address__WEBPACK_IMPORTED_MODULE_0__["default"])());
 
 })();
 
